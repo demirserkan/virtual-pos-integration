@@ -1,0 +1,8 @@
+endpoints:
+  adyen:
+    refund: "https://www.adyen.com/api/v1/refund"
+  est:
+    auth: "https://www.est.com/pos/api/v1/auth"
+    refund: "https://www.est.com/pos/api/v1/refund"
+  tyBank:
+    refund: "https://www.tybank.com/pos/api/v1/tybank/refund"
